@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AI Assistant\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Failed - failed@failed.eu\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Clicked button"
+msgstr "Knop geklikt"
+
+msgid "A.I Assistant"
+msgstr "A.I. assistent"
+
+msgid "Data has been imported"
+msgstr "Gegevens zijn geïmporteerd"
+
+msgid "There was an error during transfer"
+msgstr "Er is een fout opgetreden tijdens de overdracht"
+
+msgid "Assistant look"
+msgstr "Assistent-look"
+
+msgid "Corpse"
+msgstr "Lichaam"
+
+msgid "Head"
+msgstr "Kop"
+
+msgid "Hair"
+msgstr "Haar"
+
+msgid "Eyes"
+msgstr "Ogen"
+
+msgid "Mouth"
+msgstr "Mond"
+
+msgid "Neck"
+msgstr "Nek"
+
+msgid "Design"
+msgstr "Ontwerp"
+
+msgid "Bubble color"
+msgstr "Bubble kleur"
+
+msgid "Enter the color hex"
+msgstr "Voer de kleur hex"
+
+msgid "Text color"
+msgstr "Tekstkleur"
+
+msgid "Buttons color"
+msgstr "Kleur buttons"
+
+msgid "Buttons text color"
+msgstr "Knoppen Tekstkleur"
+
+msgid "Shining color"
+msgstr "Glanzende kleur"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "Assistant Enabled"
+msgstr "Assistent ingeschakeld"
+
+msgid "No"
+msgstr "Nee"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Position"
+msgstr "Positie"
+
+msgid "Left"
+msgstr "Links"
+
+msgid "Right"
+msgstr "Rechts"
+
+msgid "Initial message"
+msgstr "Eerste bericht"
+
+msgid "Hide assistant on close"
+msgstr "Verberg assistent op Close"
+
+msgid "Import / Export"
+msgstr "Importeren / Exporteren"
+
+msgid "Export data"
+msgstr "Exporteer gegevens"
+
+msgid "Select the exported .json file"
+msgstr "Selecteer het geëxporteerde. JSON-bestand"
+
+msgid "Be carreful : all existing data will be erased"
+msgstr "Wees voorzichtig: alle bestaande gegevens zullen worden gewist"
+
+msgid "Save"
+msgstr "Opslaan"
+
+msgid "My Step"
+msgstr "Mijn stap"
+
+msgid "Add a step"
+msgstr "Een stap toevoegen"
+
+msgid "Remove all steps"
+msgstr "Alle stappen verwijderen"
+
+msgid "Are you sure you want to delete all steps ?"
+msgstr "Weet je zeker dat je alle stappen wil wissen?"
+
+msgid "Edit a step"
+msgstr "Bewerk een stap"
+
+msgid "Actions"
+msgstr "Acties"
+
+msgid "Step Title"
+msgstr "Stap titel"
+
+msgid "Interactions"
+msgstr "Interacties"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Enter the dialog text here"
+msgstr "Voer hier de dialoog tekst in"
+
+msgid "text in bold"
+msgstr "tekst in vetgedrukt"
+
+msgid "text underlined"
+msgstr "onderstreepte tekst"
+
+msgid "recover the value of a previous interaction"
+msgstr "de waarde van een vorige interactie herstellen"
+
+msgid "Preview"
+msgstr "Voorbeeld"
+
+msgid "Edit a link"
+msgstr "Een koppeling/conditie bewerken"
+
+msgid "Origin Step"
+msgstr "De stap van de oorsprong"
+
+msgid "Destination Step"
+msgstr "Bestemmingsstap"
+
+msgid "Add a condition"
+msgstr "Voeg een conditionele waarde toe"
+
+msgid "Delete"
+msgstr "Verwijderen"
+
+msgid "Please add interactions to the origin step"
+msgstr "Voeg interacties toe aan de oorsprongs stap"
+
+msgid "Nothing"
+msgstr "Niets"
+
+msgid "Redirect to a page"
+msgstr "Omleiden naar een pagina"
+
+msgid "Show an element"
+msgstr "Een element weergeven"
+
+msgid "Send an email of the dialog"
+msgstr "Stuur een e-mail van het dialoogvenster"
+
+msgid "Send past interactions as post variables to a page"
+msgstr "Vorige interacties als post variabelen naar een pagina verzenden"
+
+msgid "Enter the url here : http://..."
+msgstr "Voer hier de URL: http://..."
+
+msgid "Select an element"
+msgstr "Selecteer een element"
+
+msgid "Element selected"
+msgstr "Element geselecteerd"
+
+msgid "Enter the receipt email"
+msgstr "Voer de ontvangst e-mail"
+
+msgid "Enter the subject"
+msgstr "Voer het onderwerp in"
+
+msgid "Enter the php page url here : http://..."
+msgstr "Voer de PHP pagina URL hier: http://..."
+
+msgid "Unique ID"
+msgstr "Unieke ID"
+
+msgid "Enter a unique ID"
+msgstr "Een unieke ID invoeren"
+
+msgid "Text field"
+msgstr "Tekst veld"
+
+msgid "Number field"
+msgstr "Nummerveld"
+
+msgid "Select"
+msgstr "Selecteren"
+
+msgid "Button"
+msgstr "Knop"
+
+msgid "Label"
+msgstr "Label"
+
+msgid "Validation"
+msgstr "Validatie"
+
+msgid "Must be filled"
+msgstr "Moet worden ingevuld"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Use decimals"
+msgstr "Decimalen gebruiken"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Maximum"
+msgstr "Maximum"
+
+msgid "Navigate to the desired page and click on the button \"Select an element\""
+msgstr "Navigeer naar de gewenste pagina en klik op de knop \"Selecteer een element\""
+
+msgid "Click on the desired element"
+msgstr "Klik op het gewenste element"
+
+msgid "Will you show the element that shines ?"
+msgstr "Zult het element tonen dat schijnt?"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Redirection"
+msgstr "Doorverwijzing"
+
+msgid "Element showing"
+msgstr "Element weergegeven"
+
+msgid "Send email"
+msgstr "Verzend e-mail"
+
+msgid "Select menu"
+msgstr "Selecteer menu"
+
+msgid "Number Field"
+msgstr "Numeriek veld"
+
+msgid "Is clicked"
+msgstr "Wordt geklikt"
+
+msgid "Is filled"
+msgstr "Is gevuld"
+
+msgid "Is equal to"
+msgstr "Is gelijk aan"
+
+msgid "Is superior to"
+msgstr "Is superieur aan"
+
+msgid "Is inferior to"
+msgstr "Is inferieur aan"
+
+msgid "Current date"
+msgstr "Huidige datum"
+
+msgid "Option"
+msgstr "Optie"
+
+msgid "Execute JS code"
+msgstr "Uitvoeren JS-code"
+
+msgid "Enter your Javascript code here"
+msgstr "Vul hier uw JavaScript code in"
+
+msgid "Disable on mobiles"
+msgstr "Uitschakelen op mobiele telefoons"
+
+msgid "Fill your purchase code"
+msgstr "Vul uw aankoopcode in"
+
+msgid "Purchase code"
+msgstr "Aankoop Code"
+
+msgid "How to find my purchase code ?"
+msgstr "Hoe vind ik mijn aankoopcode?"
